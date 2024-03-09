@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1. INSURED PLAN": "OTHER ID#",
+			"1a. INSURED'S I.D. NUMBER": "SFG1241010247800",
+			"2. PATIENT'S NAME": "PRIMA, NASH",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"11", "DD":"14", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "PRIMA, HELEN N",
+			"5. PATIENT'S ADDRESS": "6401 NEWS PLAZA PLACITA LUREP",
+			"5. PATIENT'S CITY": "NASHVILLE",
+			"5. PATIENT'S STATE":"NV",
+			"5. PATIENT'S ZIP CODE": "500543",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "934 283 -4328",
+				"words": [
+					{
+						"word": "934 283 -4328",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "PRIMA, HELEN N"},
+			{"7. INSURED'S ADDRESS": "6401 N PLACITA ALTA REPOSA"},
+			{"7. INSURED'S CITY": "NASHVILLE", "7. INSURED'S STATE":"NV"},
+			{"7. INSURED'S ZIP CODE":"500543", "7. INSURED'S TELEPHONE":"822 714-5614"}
+			],
+			"9. OTHER INSURED'S NAME": "PRIMA, HELEN N",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "",
+			"9d. INSURANCE PLAN NAME": "OTH MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0222158936",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "NORTH GREEN UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06/12/2025"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "NFTO"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "G816",
+				"words": [
+					{
+						"word": "G816",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RX2145",
+				"words": [
+					{
+						"word": "RX2145",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "S8994",
+				"words": [
+					{
+						"word": "S8994",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|00",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999996N6",
+			"24. SERVICES": [
+			{"MM 1":"4", "DD 1":"14", "YY 1": "23", "PLACE OF SERVICE 1": "01", "EMG 1": "Y", "CPT/HCPCS 1": "B505", "MODIFIER 1": "UT", "DIAGNOSIS POINTER 1": "BB", "$CHARGES 1":"595|50", "UNITS 1":"004", "Family Plan 1": "", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"09", "DD 2":"29", "YY 2":"24", "PLACE OF SERVICE 2": "19", "EMG 2": "Y", "CPT/HCPCS 2": "87789", "MODIFIER 2": "NP", "DIAGNOSIS POINTER 2": "A34", "$CHARGES 2": "600|00", "UNITS 2": "003", "Family Plan 2": "", "PROVIDER ID 2": "8811528877"},
+			{"MM 3":"09", "DD 3":"29", "YY 3":"24", "PLACE OF SERVICE 3": "19", "EMG 3": "Y", "CPT/HCPCS 3": "8773. 19", "MODIFIER 3": "NU", "DIAGNOSIS POINTER 3": "AA", "$CHARGES 3": "600|00", "UNITS 3": "003", "Family Plan 3": "", "PROVIDER ID 3": "8811528877"}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "",
+			"25. FEDERAL IDENTIFICATION": "",
+            "26. PATIENT'S ACCOUNT NUMBER": "685222014612",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1795|50",
+			"29. AMOUNT PAID": "1005| ",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "06 DEC 2021"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "BRICK ROUTE 88 ST DAHLIA GROUNDS 22ND ST"},
+			{"32. a. NPI NUMBER": "24202301"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "795 858 - 7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: S.E.C.D. PEARSON MILWAKEE PO 452-41"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

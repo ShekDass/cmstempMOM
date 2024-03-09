@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "OTHER ID#",
+			"1a. INSURED'S I.D. NUMBER": "GBH7235153129",
+			"2. PATIENT'S NAME": "FALLON, MIKE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"01", "DD":"15", "YY":"2022"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "FALLON, HOBART K",
+			"5. PATIENT'S ADDRESS": "145 DOGWOOD GREEN ST",
+			"5. PATIENT'S CITY": "STUTTGART",
+			"5. PATIENT'S STATE":"TZ",
+			"5. PATIENT'S ZIP CODE": "60085",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "878 321-4566",
+				"words": [
+					{
+						"word": "878 321-4566",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "FALLON, HOBART K"},
+			{"7. INSURED'S ADDRESS": "145 DOGWOOD GREEN ST BUT IN OHIO"},
+			{"7. INSURED'S CITY": "STUTTGART", "7. INSURED'S STATE":"OH"},
+			{"7. INSURED'S ZIP CODE":"60085", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "FALLON, HOBART K",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "814578001",
+			"9d. INSURANCE PLAN NAME": "MEDICAID OTHER PLAN",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "98865232",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "FEDEX NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "20/01/2022"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE SUBMITTED"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "998.59",
+				"words": [
+					{
+						"word": "998.59",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "V20 . 0",
+				"words": [
+					{
+						"word": "V20 . 0",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " 0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "99999966LB",
+			"24. SERVICES": [
+			{"MM 1":"12", "DD 1":"29", "YY 1": "22", "PLACE OF SERVICE 1": "16", "EMG 1": "", "CPT/HCPCS 1": "E1399", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "12A", "$CHARGES 1":"1185|50", "UNITS 1":"6", "Family Plan 1": "", "PROVIDER ID 1": "88115232C852"},
+			{"MM 2":"06", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "13", "EMG 2": "Y", "CPT/HCPCS 2": "00170", "MODIFIER 2": "20", "DIAGNOSIS POINTER 2": "BB", "$CHARGES 2": "209|39", "UNITS 2": "3.5", "Family Plan 2": "", "PROVIDER ID 2": "F1632"},
+			{"MM 3":"11", "DD 3":"10", "YY 3":"23", "PLACE OF SERVICE 3": "11", "EMG 3": "Y", "CPT/HCPCS 3": "009.0", "MODIFIER 3": "26", "DIAGNOSIS POINTER 3": "3254", "$CHARGES 3": "861|00", "UNITS 3": "90", "Family Plan 3": "", "PROVIDER ID 3": "AK321"}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "375342195126",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "55521101432",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1185|50",
+			"29. AMOUNT PAID": "1000|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "01/20/2022"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "HCC HOSPITALE DOGWOOD PA 60322"},
+			{"32. a. NPI NUMBER": "456416532"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "765 889-3239"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: CUO CLAIMS OFFICE PO BOX 60115 FASTWOOD PA 43345-32119"},
+			{"33. a. NPI NUMBER": "7410025885"}
+			]
+		}
+	]
+}

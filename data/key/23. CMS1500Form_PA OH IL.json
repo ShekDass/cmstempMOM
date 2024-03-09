@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1. INSURED PLAN": "OTHER ID#",
+			"1a. INSURED'S I.D. NUMBER": "GBGST - 41005685 - 511",
+			"2. PATIENT'S NAME": "ELDEMANN, DIETER T",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"09", "DD":"24", "YY":"2016"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "ELDEMANN, LAURA S",
+			"5. PATIENT'S ADDRESS": "10 BIRCHWOOD AVE",
+			"5. PATIENT'S CITY": "DENVER",
+			"5. PATIENT'S STATE":"MD",
+			"5. PATIENT'S ZIP CODE": "745499",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 835-4227",
+				"words": [
+					{
+						"word": "834 835-4227",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Other",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "ELDEMANN, LAURA S"},
+			{"7. INSURED'S ADDRESS": "10 BIRCHWOOD AVE"},
+			{"7. INSURED'S CITY": "HONOBIA", "7. INSURED'S STATE":"AL"},
+			{"7. INSURED'S ZIP CODE":"", "7. INSURED'S TELEPHONE":"765-235-5916"}
+			],
+			"9. OTHER INSURED'S NAME": "ELDEMANN, LAURA S",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "2554224554412",
+			"9d. INSURANCE PLAN NAME": "MEDIC AID OTHER PLAN",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "8L254512M",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNED BY PAT.", "DATE": "01/29/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "Q4525",
+				"words": [
+					{
+						"word": "Q4525",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RX2145",
+				"words": [
+					{
+						"word": "RX2145",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "V877. 5",
+				"words": [
+					{
+						"word": "V877 . 5",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "|",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "P99666666666P",
+			"24. SERVICES": [
+			{"MM 1":"02", "DD 1":"24", "YY 1": "22", "PLACE OF SERVICE 1": "11", "EMG 1": "", "CPT/HCPCS 1": "R3542", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "A", "$CHARGES 1":"236|45", "UNITS 1":"006", "Family Plan 1": "", "PROVIDER ID 1": "1528877"},
+			{"MM 2":"01", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "21", "EMG 2": "", "CPT/HCPCS 2": "07531", "MODIFIER 2": "21", "DIAGNOSIS POINTER 2": "A", "$CHARGES 2": "1055|00", "UNITS 2": "003", "Family Plan 2": "", "PROVIDER ID 2": "11528877"},
+			{"MM 3":"01", "DD 3":"19", "YY 3":"24", "PLACE OF SERVICE 3": "06", "EMG 3": "Y", "CPT/HCPCS 3": "Z7899", "MODIFIER 3": "16", "DIAGNOSIS POINTER 3": "AA", "$CHARGES 3": "1055|00", "UNITS 3": "45", "Family Plan 3": "", "PROVIDER ID 3": "8S1152851"}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "553291837067",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "82669304127",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "2346|45",
+			"29. AMOUNT PAID": "1080|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "02 / 13 / 2024"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "HCC DR ROBINSON'S BIRCHWOOD CENTRAL PO 511423 CORAL BAY DISTRICT "},
+			{"32. a. NPI NUMBER": ""}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7773"},
+			{"33. BILLING PROVIDER LOCATION": "PYTP: LEGAL CLAIMS DEPARTMENT POST OFFICE BOX 311215 WHITEFIELD ILLINOIS 83345-1211"},
+			{"33. a. NPI NUMBER": "235411547"}
+			]
+		}
+	]
+}

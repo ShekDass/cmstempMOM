@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICAID Medicaid#",
+			"1a. INSURED'S I.D. NUMBER": "EDP882023531684",
+			"2. PATIENT'S NAME": "JOHNSON, OLIVIA C",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"12", "DD":"05", "YY":"1999"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "JOHNSON, SHERMAN",
+			"5. PATIENT'S ADDRESS": "#88 CATEL TOWERS NE BRADY HWY",
+			"5. PATIENT'S CITY": "SALEM",
+			"5. PATIENT'S STATE":"OH",
+			"5. PATIENT'S ZIP CODE": "97301",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "956 166-2321",
+				"words": [
+					{
+						"word": "956 166-2321",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "JOHNSON, SHERMAN"},
+			{"7. INSURED'S ADDRESS": ""},
+			{"7. INSURED'S CITY": "SALEM", "7. INSURED'S STATE":"OH"},
+			{"7. INSURED'S ZIP CODE":"97301", "7. INSURED'S TELEPHONE":"765-234-5118"}
+			],
+			"9. OTHER INSURED'S NAME": "JOHNSON, SHEILA",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "9564781",
+			"9d. INSURANCE PLAN NAME": "",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "501185743699",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UNITED EMPLOYEES FRONT NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "11/20/2021"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "P816",
+				"words": [
+					{
+						"word": "P816",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RX211.4",
+				"words": [
+					{
+						"word": "RX211.4",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "S8994",
+				"words": [
+					{
+						"word": "S8994",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|00",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "4120774125",
+			"24. SERVICES": [
+			{"MM 1":"7", "DD 1":"19", "YY 1": "24", "PLACE OF SERVICE 1": "16", "EMG 1": "", "CPT/HCPCS 1": "97735", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"38|00", "UNITS 1":"001", "Family Plan 1": "", "PROVIDER ID 1": "248866854Y"},
+			{"MM 2":"02", "DD 2":"07", "YY 2":"22", "PLACE OF SERVICE 2": "15", "EMG 2": "Y", "CPT/HCPCS 2": "TR457", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "AA", "$CHARGES 2": "357|00", "UNITS 2": "003", "Family Plan 2": "", "PROVIDER ID 2": "T5286"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "77578579521",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "392|00",
+			"29. AMOUNT PAID": "365|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "POR", "DATE": "NOV 27, 2022"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DENNIS HEALTH CARE CENTER WILLOW CREEK, 42ND STREET AMAZING COUNTY PA 81345"},
+			{"32. a. NPI NUMBER": "83468752891"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "835 158-7396"},
+			{"33. BILLING PROVIDER LOCATION": "PAYMENT TO: PAYER CLAIMS SECTION RABBIT TANKERS PA 81345-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

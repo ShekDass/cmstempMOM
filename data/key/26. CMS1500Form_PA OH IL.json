@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1. INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "NWT12194418238565",
+			"2. PATIENT'S NAME": "MILKES, DONNA S",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"05", "DD":"09", "YY":"1998"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "MILKES, HARVEY",
+			"5. PATIENT'S ADDRESS": "233 ESHORE ECITY, NEAR EMALL",
+			"5. PATIENT'S CITY": "GREATNECK",
+			"5. PATIENT'S STATE":"DE",
+			"5. PATIENT'S ZIP CODE": "110233",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 329 - 9502",
+				"words": [
+					{
+						"word": "834 329 - 9502",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "MILKES, HARVEY"},
+			{"7. INSURED'S ADDRESS": "233 ESHORE ECITY, NEAR EMALL"},
+			{"7. INSURED'S CITY": "GREATNECK", "7. INSURED'S STATE":"DE"},
+			{"7. INSURED'S ZIP CODE":"110233", "7. INSURED'S TELEPHONE":"115-233-4501"}
+			],
+			"9. OTHER INSURED'S NAME": "MILKES, HARVEY",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "855422455478",
+			"9d. INSURANCE PLAN NAME": "MEDICAID CHAMPVA HEALTH",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "05011999231",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "CORP UNION GROUP WAIVING FLAGS",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "DONN", "DATE": "08/12/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "G08 . 1",
+				"words": [
+					{
+						"word": "G08 . 1",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "S8994",
+				"words": [
+					{
+						"word": "S8994",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0|",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "9999996688",
+			"24. SERVICES": [
+			{"MM 1":"01", "DD 1":"20", "YY 1": "24", "PLACE OF SERVICE 1": "19", "EMG 1": "Y", "CPT/HCPCS 1": "T3566", "MODIFIER 1": "CV", "DIAGNOSIS POINTER 1": "A", "$CHARGES 1":"421|36", "UNITS 1":"002", "Family Plan 1": "", "PROVIDER ID 1": "28877"},
+			{"MM 2":"08", "DD 2":"19", "YY 2":"24", "PLACE OF SERVICE 2": "42", "EMG 2": "", "CPT/HCPCS 2": "93546", "MODIFIER 2": "20", "DIAGNOSIS POINTER 2": "BA", "$CHARGES 2": "49|20", "UNITS 2": "001", "Family Plan 2": "", "PROVIDER ID 2": "88778"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "878-995-1144",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "9820114612",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "470|56",
+			"29. AMOUNT PAID": "470|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNED ON FL", "DATE": "05/19/2020"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DENNIS HEALTH CARE CENTER MCC CLINIC CA 60322 DAHLIA GROUNDS 22ND ST "},
+			{"32. a. NPI NUMBER": "85214235"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 6587339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC BILLING SECTION POST OFFICE 60115 CHERRY NPI NPA DELAWARE 922461"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

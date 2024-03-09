@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "ZBT1219441124578",
+			"2. PATIENT'S NAME": "CARLSON, ROCHELLE",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"12", "DD":"01", "YY":"2020"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "CARLSON, WENDY M",
+			"5. PATIENT'S ADDRESS": "1430 HARPER STREET",
+			"5. PATIENT'S CITY": "AUGUSTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "30901",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "834 655-4322",
+				"words": [
+					{
+						"word": "834 655-4322",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "CARLSON, WENDY M"},
+			{"7. INSURED'S ADDRESS": "1430 HARPER STREET"},
+			{"7. INSURED'S CITY": "AUGUSTA", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"30901", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "CARLSON, WENDY M",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "255449511574",
+			"9d. INSURANCE PLAN NAME": "MEDICAID CHAMPION",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "126589322",
+			"11a. INSURED'S SEX": "F",
+			"11c. INSURANCE PLAN NAME": "NATIONAL HEALTH GROUP NON UNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "05/18/2021"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "E SIGNED"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "Q874",
+				"words": [
+					{
+						"word": "Q874",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "S144",
+				"words": [
+					{
+						"word": "S144",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "R1845",
+				"words": [
+					{
+						"word": "R1845",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " 0| ",
+			"22. RESUBMISSION CODE":  "A 20",
+			"23. PRIOR AUTHORIZATION NUMBER": "5444449999",
+			"24. SERVICES": [
+			{"MM 1":"08", "DD 1":"18", "YY 1": "22", "PLACE OF SERVICE 1": "11", "EMG 1": "Y", "CPT/HCPCS 1": "C3544", "MODIFIER 1": "NY", "DIAGNOSIS POINTER 1": "AC", "$CHARGES 1":"55|50", "UNITS 1":"001", "Family Plan 1": "Y", "PROVIDER ID 1": "881128877"},
+			{"MM 2":"02", "DD 2":"22", "YY 2":"23", "PLACE OF SERVICE 2": "13", "EMG 2": "", "CPT/HCPCS 2": "QR48", "MODIFIER 2": "26", "DIAGNOSIS POINTER 2": "A", "$CHARGES 2": "1055|00", "UNITS 2": "91.5", "Family Plan 2": "", "PROVIDER ID 2": "Z528877"},
+			{"MM 3":"01", "DD 3":"19", "YY 3":"24", "PLACE OF SERVICE 3": "11", "EMG 3": "Y", "CPT/HCPCS 3": "97746", "MODIFIER 3": "NU", "DIAGNOSIS POINTER 3": "214", "$CHARGES 3": "964|00", "UNITS 3": "30", "Family Plan 3": "", "PROVIDER ID 3": "P552H93"}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "899561739460",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "01461231437091",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "2074|50",
+			"29. AMOUNT PAID": "2040|05",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "05/18/2021"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "WALNUT CARE CENTER NORTH KRANENSWING DAHLIA GROUNDS 22ND ST "},
+			{"32. a. NPI NUMBER": "366834511547"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "995 658-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: CLAIMS & LEGAL DEPARTMENT ORANGE BROWN FIELDS, PO BOX 60115 IL 86445-12119"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

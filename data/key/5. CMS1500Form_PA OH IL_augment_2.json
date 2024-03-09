@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "FECA BLK LUNG ID#",
+			"1a. INSURED'S I.D. NUMBER": "RBS121944456780021",
+			"2. PATIENT'S NAME": "LARSON, DENNIS KS",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"02", "DD":"22", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "LARSON, PAMELA M",
+			"5. PATIENT'S ADDRESS": "7TH OAK STREET",
+			"5. PATIENT'S CITY": "WASHINGTON",
+			"5. PATIENT'S STATE":"DC",
+			"5. PATIENT'S ZIP CODE": "60014",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "934 622-4890",
+				"words": [
+					{
+						"word": "934 622-4890",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "LARSON, PAMELA M"},
+			{"7. INSURED'S ADDRESS": "6488 WILLOW MOUSSE ST, FLAT 404"},
+			{"7. INSURED'S CITY": "NORTH OHIO", "7. INSURED'S STATE":"OH"},
+			{"7. INSURED'S ZIP CODE":"85700", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "LARSON, PAMELA M",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "822546899",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "YES"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0782159916",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "NON UNION GROUP ST ASSURANCE",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "LARSON P", "DATE": "22 / 05 / 2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURES ATTACHED"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "G816",
+				"words": [
+					{
+						"word": "G816",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "RX2145",
+				"words": [
+					{
+						"word": "RX2145",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "L4534",
+				"words": [
+					{
+						"word": "L4534",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "R4526",
+				"words": [
+					{
+						"word": "R4526",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "R22",
+				"words": [
+					{
+						"word": "R22",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "002 . 90",
+				"words": [
+					{
+						"word": "002 . 90",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " 0| ",
+			"22. RESUBMISSION CODE":  "AB 02",
+			"23. PRIOR AUTHORIZATION NUMBER": "K44999999668",
+			"24. SERVICES": [
+			{"MM 1":"11", "DD 1":"13", "YY 1": "23", "PLACE OF SERVICE 1": "11", "EMG 1": "", "CPT/HCPCS 1": "00770", "MODIFIER 1": "22", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"1055|50", "UNITS 1":"2.5", "Family Plan 1": "", "PROVIDER ID 1": "9X2568956"},
+			{"MM 2":"12", "DD 2":"18", "YY 2":"23", "PLACE OF SERVICE 2": "13", "EMG 2": "", "CPT/HCPCS 2": "S4533", "MODIFIER 2": "26", "DIAGNOSIS POINTER 2": "12", "$CHARGES 2": "100|48", "UNITS 2": "002", "Family Plan 2": "", "PROVIDER ID 2": "3645781SZ"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "1125951738",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "965203211295623",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1155|98",
+			"29. AMOUNT PAID": "1050|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "08/10/2021"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER WALKER ST. PA 60421 26TH STREET HAMILTON"},
+			{"32. a. NPI NUMBER": "7852542137"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 666-3335"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS OFFICE MEDICAID PO BOX 60115 ILFS DE 82245-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

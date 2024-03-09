@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICAID Medicaid#",
+			"1a. INSURED'S I.D. NUMBER": "QWE121944182300100",
+			"2. PATIENT'S NAME": "HUGHES, JOSEPH R",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"07", "DD":"05", "YY":"2022"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "HUGHES, ROB P",
+			"5. PATIENT'S ADDRESS": "3616 RED MAPLE WAY",
+			"5. PATIENT'S CITY": "JONESBORO",
+			"5. PATIENT'S STATE":"TX",
+			"5. PATIENT'S ZIP CODE": "611545",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "785 255-4312",
+				"words": [
+					{
+						"word": "785 255-4312",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "HUGHES, ROB P"},
+			{"7. INSURED'S ADDRESS": "3616 RED MAPLE WAY"},
+			{"7. INSURED'S CITY": "JONESBORO", "7. INSURED'S STATE":"TX"},
+			{"7. INSURED'S ZIP CODE":"611545", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "HUGHES, ROB P",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "789654123",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "092514568925",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "RAILWAY MEN HARDWORKING GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE", "DATE": "18/01/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "F222",
+				"words": [
+					{
+						"word": "F222",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "780 . 6",
+				"words": [
+					{
+						"word": "780 . 6",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "R2152",
+				"words": [
+					{
+						"word": "R2152",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "G22",
+				"words": [
+					{
+						"word": "G22",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " 0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "8522145678R",
+			"24. SERVICES": [
+			{"MM 1":"01", "DD 1":"24", "YY 1": "22", "PLACE OF SERVICE 1": "21", "EMG 1": "", "CPT/HCPCS 1": "001.0", "MODIFIER 1": "RU", "DIAGNOSIS POINTER 1": "1234", "$CHARGES 1":"65|25", "UNITS 1":"003", "Family Plan 1": "Y", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"", "DD 2":"", "YY 2":"", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "", "$CHARGES 2": "", "UNITS 2": "", "Family Plan 2": "", "PROVIDER ID 2": ""},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "56695452115",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "8863417147",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "65|25",
+			"29. AMOUNT PAID": "60|25",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "AD BILLING", "DATE": "01/18/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER RED MAPLE SQUARE, 26TH STREET DE 822605"},
+			{"32. a. NPI NUMBER": "3665422837"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "735 666-3335"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS OFFICE MEDICAID PO BOX 60115 ILFS DE 82245-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}

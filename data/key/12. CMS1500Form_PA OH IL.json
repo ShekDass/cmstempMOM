@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "MEDICAID Medicaid#",
+			"1a. INSURED'S I.D. NUMBER": "MEM121944182300100",
+			"2. PATIENT'S NAME": "REISE, ANNISE R",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"04", "DD":"09", "YY":"1969"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "REESE, TIMOTHY E",
+			"5. PATIENT'S ADDRESS": "55 ESSEX CTR",
+			"5. PATIENT'S CITY": "PEABODY",
+			"5. PATIENT'S STATE":"MI",
+			"5. PATIENT'S ZIP CODE": "85700",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "836 655-1899",
+				"words": [
+					{
+						"word": "836 655-1899",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Spouse",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "REESE, TIMOTHY E"},
+			{"7. INSURED'S ADDRESS": ""},
+			{"7. INSURED'S CITY": "CLEVELAND", "7. INSURED'S STATE":"OH"},
+			{"7. INSURED'S ZIP CODE":"85700", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "REESE, TIMOTHY E",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "112244852258",
+			"9d. INSURANCE PLAN NAME": "MEDIC AID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "0432158936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "TARGET PLUS DIAMOND",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "ANNISE ", "DATE": "09/22/2024"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "TIMOTHY"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "9",
+				"words": [
+					{
+						"word": "9",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "K909",
+				"words": [
+					{
+						"word": "K909",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "K19",
+				"words": [
+					{
+						"word": "K19",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "E877 . 9",
+				"words": [
+					{
+						"word": "E877 . 9",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": " 0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "8888899999F",
+			"24. SERVICES": [
+			{"MM 1":"01", "DD 1":"01", "YY 1": "23", "PLACE OF SERVICE 1": "26", "EMG 1": "Y", "CPT/HCPCS 1": "SG55", "MODIFIER 1": "", "DIAGNOSIS POINTER 1": "AA", "$CHARGES 1":"55|50", "UNITS 1":"001", "Family Plan 1": "", "PROVIDER ID 1": "5D528877"},
+			{"MM 2":"01", "DD 2":"22", "YY 2":"24", "PLACE OF SERVICE 2": "16", "EMG 2": "", "CPT/HCPCS 2": "99241", "MODIFIER 2": "", "DIAGNOSIS POINTER 2": "124", "$CHARGES 2": "56|00", "UNITS 2": "90", "Family Plan 2": "", "PROVIDER ID 2": "5622277"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "9951143598",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "2014613568972",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "111|50",
+			"29. AMOUNT PAID": "100|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "04/26/2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "COOPER HEALTH CARE CENTER NORTH BAY AREA PA 60326 KRAKENSWING 48TH BLVD"},
+			{"32. a. NPI NUMBER": "235411547"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "795 868-7329"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: CLAIMS & LEGAL DEPARTMENT CHERRY FIELDS, PO BOX 60115 IL 86445-12119"},
+			{"33. a. NPI NUMBER": "87899553164"}
+			]
+		}
+	]
+}

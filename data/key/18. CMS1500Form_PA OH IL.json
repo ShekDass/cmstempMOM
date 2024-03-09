@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "OTHER ID#",
+			"1a. INSURED'S I.D. NUMBER": "GBH-7235153129",
+			"2. PATIENT'S NAME": "STEIN, TONY M",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"08", "DD":"13", "YY":"2020"}
+			],
+			"3. PATIENT'S SEX": "M",
+			"4. INSURED'S NAME": "DASHAN, HARRY R",
+			"5. PATIENT'S ADDRESS": "6255 DR BIG ALTAR ROAD",
+			"5. PATIENT'S CITY": "MILWAUKEE",
+			"5. PATIENT'S STATE":"IN",
+			"5. PATIENT'S ZIP CODE": "53456",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "755 258-8356",
+				"words": [
+					{
+						"word": "755 258-8356",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "DASHAN, HARRY R"},
+			{"7. INSURED'S ADDRESS": "6255 DR BIG ALTAR ROAD"},
+			{"7. INSURED'S CITY": "MILWAUKEE", "7. INSURED'S STATE":"IN"},
+			{"7. INSURED'S ZIP CODE":"53456", "7. INSURED'S TELEPHONE":"115 884-1100"}
+			],
+			"9. OTHER INSURED'S NAME": "STEIN, MARCO S",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "2554224554412",
+			"9d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "23450158936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "UNITED CORPS GROUP",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "HARRY DASHAN", "DATE": "01/24/2023"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "HARRY DASHAN"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "016 . 3 ",
+				"words": [
+					{
+						"word": "016 . 3 ",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "B14 .75",
+				"words": [
+					{
+						"word": "B14 .75",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "E58715",
+				"words": [
+					{
+						"word": "E58715",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "YES",
+			"20. LAB $CHARGES": "40519|00",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "2058963014B5",
+			"24. SERVICES": [
+			{"MM 1":"04", "DD 1":"14", "YY 1": "23", "PLACE OF SERVICE 1": "10", "EMG 1": "", "CPT/HCPCS 1": "0015.8", "MODIFIER 1": "TN", "DIAGNOSIS POINTER 1": "324", "$CHARGES 1":"55|50", "UNITS 1":"45", "Family Plan 1": "", "PROVIDER ID 1": "M81152N77"},
+			{"MM 2":"12", "DD 2":"16", "YY 2":"24", "PLACE OF SERVICE 2": "05", "EMG 2": "", "CPT/HCPCS 2": "99756", "MODIFIER 2": "TL", "DIAGNOSIS POINTER 2": "FB", "$CHARGES 2": "1055|68", "UNITS 2": "003", "Family Plan 2": "Y", "PROVIDER ID 2": "PO11528877"},
+			{"MM 3":"", "DD 3":"", "YY 3":"", "PLACE OF SERVICE 3": "", "EMG 3": "", "CPT/HCPCS 3": "", "MODIFIER 3": "", "DIAGNOSIS POINTER 3": "", "$CHARGES 3": "", "UNITS 3": "", "Family Plan 3": "", "PROVIDER ID 3": ""}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "995-114-4523",
+			"25. FEDERAL IDENTIFICATION": "SSN",
+            "26. PATIENT'S ACCOUNT NUMBER": "28401",
+            "27. ACCEPT ASSIGNMENT": "NO",
+			"28. TOTAL CHARGE": "1111|99",
+			"29. AMOUNT PAID": "1048|30",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "HARRY DASHAN", "DATE": "01 / 24 / 2023"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "TRAVIS KING HEALTH CARE CENTER MILLERS CENTRAL SPRING 45TH STARLIT HALLS, 10 DOWNING STREET"},
+			{"32. a. NPI NUMBER": "36654"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "785 658-7314"},
+			{"33. BILLING PROVIDER LOCATION": "CLAIMS LEGAL PO BOX 85644 CHERRY SUNFLOWERS NEW YORK, NJ-NY 85"},
+			{"33. a. NPI NUMBER": "87899553L64"}
+			]
+		}
+	]
+}

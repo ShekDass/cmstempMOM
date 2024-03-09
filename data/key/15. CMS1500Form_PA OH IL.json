@@ -1,0 +1,295 @@
+{
+    "meta": {
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"PATIENT AND INSURED INFORMATION": [
+		{
+			"1.INSURED PLAN": "CHAMPVA Member ID#",
+			"1a. INSURED'S I.D. NUMBER": "WVS884523182300100",
+			"2. PATIENT'S NAME": "SIGOLOFF, DAKOTA C",
+			"3. PATIENT'S DATE OF BIRTH":[
+			{"MM":"08", "DD":"22", "YY":"20"}
+			],
+			"3. PATIENT'S SEX": "F",
+			"4. INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"5. PATIENT'S ADDRESS": "6255 DR BIG BEN AVE HIGHWAY",
+			"5. PATIENT'S CITY": "SIERRAVISTA",
+			"5. PATIENT'S STATE":"IL",
+			"5. PATIENT'S ZIP CODE": "833542",
+			"5. PATIENT'S TELEPHONE": [
+			{
+				"label":"PATIENT'S TELEPHONE NUMBER",
+				"text": "839 655-4320",
+				"words": [
+					{
+						"word": "839 655-4320",
+						"normalizedVertices": [
+							{
+								"x": 340,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 580
+							},
+							{
+								"x": 640,
+								"y": 630
+							},
+							{
+								"x": 340,
+								"y": 630
+							}
+						]
+					}
+				]	
+			}
+			],
+			"6. PATIENT RELATIONSHIP": "Child",
+			"7. INSURED'S INFO": [
+			{"4. INSURED'S NAME": "SIGOLOFF, BRIAN C"},
+			{"7. INSURED'S ADDRESS": "6401 N PLACITA ALTA REPOSA"},
+			{"7. INSURED'S CITY": "SIERRAVISTA", "7. INSURED'S STATE":"IL"},
+			{"7. INSURED'S ZIP CODE":"85700", "7. INSURED'S TELEPHONE":""}
+			],
+			"9. OTHER INSURED'S NAME": "SIGOLOFF, BRIAN C",
+			"9a. OTHER INSURED'S POLICY OR GROUP": "255444582145",
+			"9d. INSURANCE PLAN NAME": "CHAMPVA MEDICAID ",
+			"10. PATIENT'S CONDITION": [
+			{"10a. EMPLOYMENT": "NO"},
+			{"10b. AUTO ACCIDENT": "NO"},
+			{"10c. OTHER ACCIDENT":"YES"}
+			],
+			"11. INSURED'S POLICY GROUP OR FECA NUMBER": "04245688936",
+			"11a. INSURED'S SEX": "M",
+			"11c. INSURANCE PLAN NAME": "HEALTH PPO ENROLLING GROUP NONUNION",
+			"11d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "YES",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": [
+			{"SIGNED": "SIGNATURE ON FILE", "DATE": "09/21/2022"}
+			],
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "BRIAN"
+		}
+	],
+	"PHYSICIAN OR MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{
+				"label":"ICD Indicator",
+				"text": "0",
+				"words": [
+					{
+						"word": "0",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1295
+							},
+							{
+								"x": 905,
+								"y": 1320
+							},
+							{
+								"x": 875,
+								"y": 1320
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS A.",
+				"text": "A886",
+				"words": [
+					{
+						"word": "A886",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1300
+							},
+							{
+								"x": 220,
+								"y": 1359
+							},
+							{
+								"x": 95,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS B.",
+				"text": "001 . 4",
+				"words": [
+					{
+						"word": "001 . 4",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1300
+							},
+							{
+								"x": 470,
+								"y": 1359
+							},
+							{
+								"x": 350,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS C.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 610,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1300
+							},
+							{
+								"x": 730,
+								"y": 1359
+							},
+							{
+								"x": 610,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS D.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 875,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1321
+							},
+							{
+								"x": 995,
+								"y": 1359
+							},
+							{
+								"x": 875,
+								"y": 1359
+							}
+						]
+					}
+				]	
+			},
+			{
+				"label":"ILLNESS E.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 95,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1361
+							},
+							{
+								"x": 220,
+								"y": 1419
+							},
+							{
+								"x": 95,
+								"y": 1419
+							}
+						]
+					}
+				]
+			},
+			{
+				"label":"ILLNESS F.",
+				"text": "",
+				"words": [
+					{
+						"word": "",
+						"normalizedVertices": [
+							{
+								"x": 350,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1361
+							},
+							{
+								"x": 470,
+								"y": 1419
+							},
+							{
+								"x": 350,
+								"y": 1419
+							}
+						]
+					}
+				]
+			}
+			],
+			"20. OUTSIDE LAB": "NO",
+			"20. LAB $CHARGES": "0| ",
+			"22. RESUBMISSION CODE":  "",
+			"23. PRIOR AUTHORIZATION NUMBER": "55555999999",
+			"24. SERVICES": [
+			{"MM 1":"05", "DD 1":"19", "YY 1": "22", "PLACE OF SERVICE 1": "", "EMG 1": "Y", "CPT/HCPCS 1": "Z3544", "MODIFIER 1": "NU", "DIAGNOSIS POINTER 1": "B", "$CHARGES 1":"55|50", "UNITS 1":"2", "Family Plan 1": "", "PROVIDER ID 1": "8811528877"},
+			{"MM 2":"04", "DD 2":"12", "YY 2":"23", "PLACE OF SERVICE 2": "", "EMG 2": "", "CPT/HCPCS 2": "DF993", "MODIFIER 2": "LP", "DIAGNOSIS POINTER 2": "124", "$CHARGES 2": "25|35", "UNITS 2": "10.5", "Family Plan 2": "Y", "PROVIDER ID 2": "J6558"},
+			{"MM 3":"12", "DD 3":"05", "YY 3":"24", "PLACE OF SERVICE 3": "10", "EMG 3": "", "CPT/HCPCS 3": "0910.4", "MODIFIER 3": "20", "DIAGNOSIS POINTER 3": "A", "$CHARGES 3": "1932|00", "UNITS 3": "007", "Family Plan 3": "", "PROVIDER ID 3": "F25879A65"}
+			],
+			"25. FEDERAL TAX I.D. NUMBER": "9954067374",
+			"25. FEDERAL IDENTIFICATION": "EIN",
+            "26. PATIENT'S ACCOUNT NUMBER": "44653089014645",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "2012|85",
+			"29. AMOUNT PAID": "1940|00",
+			"31. PHYSICIAN OR SUPPLIER SIGNATURE": [
+			{"SIGNED": "PHY OR POR ", "DATE": "09/21/2022"}
+			],
+			"32. SERVICE INFORMATION": [
+			{"32. SERVICE FACILITY LOCATION": "DR ZANE'S HEALTH CARE CENTER SPRING CREEK PA 60322"},
+			{"32. a. NPI NUMBER": "36411"}
+			],
+			"33. BILLING INFORMATION": [
+			{"33. BILLING PROVIDER PHONE": "788 658-7339"},
+			{"33. BILLING PROVIDER LOCATION": "PAY TO: HCC CLAIMS PO BOX 603211 WINTERFELL IL 83345-1211"},
+			{"33. a. NPI NUMBER": ""}
+			]
+		}
+	]
+}
